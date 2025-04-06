@@ -35,15 +35,6 @@ LiveDocs is a blazing-fast, real-time collaborative document editor built using 
 | **Monitoring**| Sentry                                                  |
 | **Deployment**| Vercel (Frontend), Render/Heroku (Backend - if separate)|
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Live Editor |
-|----------|-------------|
-| ![Dashboard](https://your-image-link.com/dashboard.png) | ![Editor](https://your-image-link.com/editor.png) |
-
----
 
 ## 🧪 Getting Started
 
